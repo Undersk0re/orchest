@@ -29,7 +29,7 @@ No frameworks. No YAML. Just write your data processing code directly in **Pytho
 ## Features
 
 - **Visually construct pipelines** through our user-friendly UI
-- **Code in Notebooks** and scripts https://orchest.readthedocs.io/en/stable/getting_started/quickstart.html
+- **Code in Notebooks** and scripts
   ([quickstart](https://orchest.readthedocs.io/en/stable/getting_started/quickstart.html))
 - Run any subset of a pipelines directly or periodically
   ([jobs](https://orchest.readthedocs.io/en/stable/fundamentals/jobs.html))
