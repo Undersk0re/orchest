@@ -29,22 +29,22 @@ No frameworks. No YAML. Just write your data processing code directly in **Pytho
 ## Features
 
 - **Visually construct pipelines** through our user-friendly UI
-- **Code in Notebooks** and scripts
-  ([quickstart](https://docs.orchest.io/en/stable/getting_started/quickstart.html))
+- **Code in Notebooks** and scripts https://orchest.readthedocs.io/en/stable/getting_started/quickstart.html
+  ([quickstart](https://orchest.readthedocs.io/en/stable/getting_started/quickstart.html))
 - Run any subset of a pipelines directly or periodically
-  ([jobs](https://docs.orchest.io/en/stable/fundamentals/jobs.html))
+  ([jobs](https://orchest.readthedocs.io/en/stable/fundamentals/jobs.html))
 - Easily define your dependencies to run on **any machine**
-  ([environments](https://docs.orchest.io/en/stable/fundamentals/environments.html))
+  ([environments](https://orchest.readthedocs.io/en/stable/fundamentals/environments.html))
 - Spin up services whose lifetime spans across the entire pipeline run
-  ([services](https://docs.orchest.io/en/stable/fundamentals/services.html))
+  ([services](https://orchest.readthedocs.io/en/stable/fundamentals/services.html))
 - Version your projects using git
-  ([projects](https://docs.orchest.io/en/stable/fundamentals/projects.html))
+  ([projects](https://orchest.readthedocs.io/en/stable/fundamentals/projects.html))
 
 **When to use Orchest?** Read it in the
-[docs](https://docs.orchest.io/en/stable/getting_started/when_to_use_orchest.html).
+[docs](https://orchest.readthedocs.io/en/stable/getting_started/when_to_use_orchest.html).
 
 👉 Get started with our
-[quickstart](https://docs.orchest.io/en/stable/getting_started/quickstart.html) tutorial or have a look at our [video tutorials](https://www.orchest.io/video-tutorials) explaining some of Orchest's core concepts.
+[quickstart](https://orchest.readthedocs.io/en/stable/getting_started/quickstart.html) tutorial or have a look at our [video tutorials](https://www.orchest.io/video-tutorials) explaining some of Orchest's core concepts.
 
 ## Roadmap
 
@@ -67,7 +67,7 @@ Get started with an example project:
 
 ## Installation
 
-Want to skip [the installation](https://docs.orchest.io/en/stable/getting_started/installation.html)
+Want to skip [the installation](https://orchest.readthedocs.io/en/stable/getting_started/installation.html)
 and jump right in? Then try out our managed service: [Orchest Cloud](https://cloud.orchest.io/signup).
 
 ## Slack Community
@@ -88,7 +88,7 @@ The software in this repository is licensed as follows:
 ## Contributing
 
 Contributions are more than welcome! Please see our [contributor
-guides](https://docs.orchest.io/en/stable/development/contributing.html) for more details.
+guides](https://orchest.readthedocs.io/en/stable/development/contributing.html) for more details.
 
 Alternatively, you can submit your pipeline to the curated list of [Orchest
 examples](https://github.com/orchest/orchest-examples) that are automatically loaded in every
