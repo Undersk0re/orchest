@@ -44,7 +44,7 @@ No frameworks. No YAML. Just write your data processing code directly in **Pytho
 [docs](https://orchest.readthedocs.io/en/stable/getting_started/when_to_use_orchest.html).
 
 👉 Get started with our
-[quickstart](https://orchest.readthedocs.io/en/stable/getting_started/quickstart.html) tutorial or have a look at our [video tutorials](https://www.orchest.io/video-tutorials) explaining some of Orchest's core concepts.
+[quickstart](https://orchest.readthedocs.io/en/stable/getting_started/quickstart.html) tutorial.
 
 ## Roadmap
 
